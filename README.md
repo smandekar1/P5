@@ -7,7 +7,8 @@ a baseline installation of a Linux distribution on a virtual machine
 The Restaurant Menu Application is hosted at http://52.11.229.28
 
 # Login instructions 
-At the terminal, use the command ssh -i ~/.ssh/udacity_key.rsa grader@52.11.229.28 -p2200
+At the terminal, use the command ssh -i ~/.ssh/udacity_key.rsa grader@52.11.229.28 -p2200 
+password: grader
 
 # Software used, installations and configuration changes 
 UFW was enabled and configuration was changed per project instructions   
