@@ -3,10 +3,9 @@
 # Project Overview
 a baseline installation of a Linux distribution on a virtual machine
 
-![site image](https://github.com/smandekar1/Project-5-Linux-Server-Config/raw/master/RestaurantApp.png "Logo Title Text 1")
-
 # URL for hosted application 
 The Restaurant Menu Application is hosted at http://52.11.229.28
+![site image](https://github.com/smandekar1/Project-5-Linux-Server-Config/raw/master/RestaurantApp.png "Logo Title Text 1")
 
 # Login instructions 
 At the terminal, use the command `ssh -i ~/.ssh/udacity_key.rsa grader@52.11.229.28 -p2200`    
