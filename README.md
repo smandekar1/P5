@@ -3,6 +3,9 @@
 # Project Overview
 a baseline installation of a Linux distribution on a virtual machine
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 # URL for hosted application 
 The Restaurant Menu Application is hosted at http://52.11.229.28
 
